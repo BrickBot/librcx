@@ -1,6 +1,17 @@
 Librcx and associated programs (May 27 1999 release)
 Written by Kekoa Proudfoot
 Released February 9, 1999
+Last original update:  Dec 16 2000
+
+NOTE: Several float lib files were later tweaked in brickOS, including:
+* addsf3.s
+* divsf3.s
+* expandsf.s
+* fixsfsi.s
+* floatisf.s
+* joinsf.s
+* normalsf.s
+
 
 INTRODUCTION
 
